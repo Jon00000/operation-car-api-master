@@ -1,13 +1,15 @@
-# operation-car-api
+operation-car-api.
+======
 
-author:Jon
+## Usage
+```bash
+   $ git clone git@github.com:Jon00000/operation-car-api-master.git
+   $ cd ./operation-car-api-master
+   $ npm install
+   $ node main.js     
+```
 
-# usage
-
->node main.js
-
-
-#Result Display
+## Result Display
 
 ------Shopping Cart Homepage------
 1.Add item to shopping cart
@@ -22,11 +24,26 @@ Added！
 1.Add item to shopping cart
 2.My shopping cart
 Choose：2
-------购物车列表------
+------Shopping Cart List------
 1.Apple  10NZD  5
-------购物车操作------
+
+------Shopping Cart Operation------
 1.Remove
 2.Quit
 Choose：1
 Please select the item to remove: 1
 Removed
+
+## Download
+* https://github.com/Jon00000/operation-car-api-master.git
+
+
+
+
+## Contact
+#### Developer/Company
+* e-mail: zhujundn@gmail.com
+* linkin: www.linkedin.com/in/jon-zhu
+* wechat: 55724772
+
+
